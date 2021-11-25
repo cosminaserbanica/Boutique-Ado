@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'home',
     'django.conf.urls.static',
-    'django.conf'
+    'django.conf',
+    'products',
 ]
 
 MIDDLEWARE = [
