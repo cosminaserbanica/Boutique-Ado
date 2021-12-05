@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.conf.urls.static',
     'django.conf',
     'products',
+    'bag',
 ]
 
 MIDDLEWARE = [
